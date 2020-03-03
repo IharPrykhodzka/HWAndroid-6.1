@@ -32,7 +32,7 @@
 
 
         <Button android:id="@+id/seven"
-            android:layout_width="100dp"
+            android:layout_width="0dp"
             android:layout_height="105dp"
 
             android:text="@string/_7"
@@ -45,7 +45,7 @@
             />
 
         <Button android:id="@+id/eight"
-            android:layout_width="100dp"
+            android:layout_width="0dp"
             android:layout_height="105dp"
 
             android:text="@string/_8"
@@ -58,7 +58,7 @@
             />
 
         <Button android:id="@+id/nine"
-            android:layout_width="100dp"
+            android:layout_width="0dp"
             android:layout_height="105dp"
 
             android:text="@string/_9"
@@ -78,7 +78,7 @@
 
 
         <Button android:id="@+id/four"
-            android:layout_width="100dp"
+            android:layout_width="0dp"
             android:layout_height="105dp"
 
             android:text="@string/_4"
@@ -91,7 +91,7 @@
             />
 
         <Button android:id="@+id/five"
-            android:layout_width="100dp"
+            android:layout_width="0dp"
             android:layout_height="105dp"
 
             android:text="@string/_5"
@@ -104,7 +104,7 @@
             />
 
         <Button android:id="@+id/six"
-            android:layout_width="100dp"
+            android:layout_width="0dp"
             android:layout_height="105dp"
 
             android:text="@string/_6"
@@ -124,7 +124,7 @@
 
 
         <Button android:id="@+id/one"
-            android:layout_width="100dp"
+            android:layout_width="0dp"
             android:layout_height="105dp"
 
             android:text="@string/_1"
@@ -137,7 +137,7 @@
             />
 
         <Button android:id="@+id/two"
-            android:layout_width="100dp"
+            android:layout_width="0dp"
             android:layout_height="105dp"
 
             android:text="@string/_2"
@@ -150,7 +150,7 @@
             />
 
         <Button android:id="@+id/three"
-            android:layout_width="100dp"
+            android:layout_width="0dp"
             android:layout_height="105dp"
 
             android:text="@string/_3"
@@ -170,7 +170,7 @@
 
 
         <Button android:id="@+id/zero"
-            android:layout_width="100dp"
+            android:layout_width="0dp"
             android:layout_height="140dp"
 
             android:text="@string/_0"
@@ -183,7 +183,7 @@
             />
 
         <Button android:id="@+id/point"
-            android:layout_width="100dp"
+            android:layout_width="0dp"
             android:layout_height="140dp"
 
             android:text="@string/point"
